@@ -6,6 +6,9 @@ namespace M05_UF3_UMLToCode
 {
     internal struct Address
     {
+
+        public Person personClass;
+
         public string street;
         public string city;
         public string state;

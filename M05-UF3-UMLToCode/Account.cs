@@ -6,6 +6,8 @@ namespace M05_UF3_UMLToCode
 {
     internal class Account
     {
+        public Transaction transactionClass;
+
         public string iban;
         protected float amount;
 

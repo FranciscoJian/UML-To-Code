@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode.csproj": {}
+    "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\UML-To-Code\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode.csproj": {}
   },
   "projects": {
-    "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode.csproj": {
+    "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\UML-To-Code\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode.csproj",
+        "projectUniqueName": "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\UML-To-Code\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode.csproj",
         "projectName": "M05-UF3-UMLToCode",
-        "projectPath": "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode.csproj",
+        "projectPath": "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\UML-To-Code\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode.csproj",
         "packagesPath": "C:\\Users\\w3ki9\\.nuget\\packages\\",
-        "outputPath": "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\M05-UF3-UMLToCode\\M05-UF3-UMLToCode\\obj\\",
+        "outputPath": "I:\\DAW1\\M05 - UF2\\Tareas\\UML Taks\\UML-To-Code\\M05-UF3-UMLToCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w3ki9\\AppData\\Roaming\\NuGet\\NuGet.Config",

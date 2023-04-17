@@ -6,6 +6,8 @@ namespace M05_UF3_UMLToCode
 {
     internal abstract class Person
     {
+        public Address adressClass;
+
         public int id;
         public string name;
         protected string phone;
